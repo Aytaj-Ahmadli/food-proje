@@ -2,6 +2,6 @@
 <p> You can find  menus  in any restaurant.  
 
 
-<h2> Secreen Gif </h2>
+<h2> Screen Gif </h2>
 
 ![](screen.gif)
